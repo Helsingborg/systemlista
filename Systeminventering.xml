@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<Name>3D-Win</Name>
+		<Description>Program för geodetiska beräkningar och konverteringar.</Description>
+		<Owner>Stadsbyggnadsförvaltningen</Owner>
+		<Responsible/>
+		<Platform/>
+		<Comment/>
+		<DeployDate>1995-01-02</DeployDate>
+		<LastUpdateDate>2014-03-14</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Adato</Name>
+		<Description>Rehabiliteringsverktyg som håller ordning på lång- och korttidsfrånvaron. Med Adato får stadens chefer signaler om när ett rehabärende ska påbörjas. Adato som är integrerat med ditt PA-system bevakar automatiskt sjukfrånvaron för dina medarbetare och skickar E-postmeddelande till dig. Hög sekretess då Adato hanterar dokumentation kring enskilda personers rehabilliteringsärende.</Description>
+		<Owner>Stadsledningsförvaltningen</Owner>
+		<Responsible>Börjesson Cecilia</Responsible>
+		<Platform/>
+		<Comment/>
+		<DeployDate>2008-03-01</DeployDate>
+		<LastUpdateDate>2013-03-27</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Administrera anställning och Anställningswebben</Name>
+		<Description>Försystem i vilket stadens chefer nyanställer samt förändrar, förlänger och avslutar anställningar. Detta resulterar i ett underlag till bl a IT-avdelningen för hantering av kontoadministration mm och som ett underlag i Anställningswebben. Anställningswebben är ett gränssnitt där stadens lönespecialister hämtar uppgifter om anställningar som läggs in i stadens lönesystem.</Description>
+		<Owner>Stadsledningsförvaltningen</Owner>
+		<Responsible>Keidser Chatarina</Responsible>
+		<Platform/>
+		<Comment/>
+		<LastUpdateDate>2012-11-20</LastUpdateDate>
+	</record>
+	<record>
+		<Name>AlkT</Name>
+		<Description>Dokumentationssystem för serveringstillstånd inom kommunen</Description>
+		<Owner>Socialförvaltningen</Owner>
+		<Responsible>Hylén Åsa</Responsible>
+		<Platform/>
+		<Comment/>
+		<LastUpdateDate>2012-06-25</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Aplus</Name>
+		<Description>Stadens ekonomisystem</Description>
+		<Owner>Stadsledningsförvaltningen / Ekonomi och Styrning</Owner>
+		<Responsible>Kjell Joelson</Responsible>
+		<Platform>SQL-server</Platform>
+		<Comment/>
+		<DeployDate>2009-10-01</DeployDate>
+		<LastUpdateDate>2012-08-28</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Artologik HelpDesk</Name>
+		<Description>Ärendehanteringssystem för HR-avdelningen centralt samt i dagsläget även HR-avdelningen på Skol- och Fritidsavdelningen.</Description>
+		<Owner>Stadsledningsförvaltningen</Owner>
+		<Responsible>Börjesson Cecilia</Responsible>
+		<Platform/>
+		<Comment/>
+		<DeployDate>2010-04-01</DeployDate>
+		<LastUpdateDate>2012-11-20</LastUpdateDate>
+	</record>
+	<record>
+		<Name>ARX</Name>
+		<Description>Passersystem för stadsbyggnadshuset</Description>
+		<Owner>Stadsbyggnadsförvaltningen</Owner>
+		<Responsible/>
+		<Platform/>
+		<Comment/>
+		<DeployDate>2007-01-01</DeployDate>
+		<LastUpdateDate>2014-03-14</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Asynja Elevhälsa</Name>
+		<Description>Journaldokumentationssytem inom Elevhälsan</Description>
+		<Owner>Skol- och fritidsförvaltningen</Owner>
+		<Responsible>Gadd Gunilla</Responsible>
+		<Platform/>
+		<Comment/>
+		<DeployDate>2005-04-01</DeployDate>
+		<LastUpdateDate>2012-08-30</LastUpdateDate>
+	</record>
+	<record>
+		<Name>AutoCAD Civil 3D</Name>
+		<Description>Används inom samhällsbyggnadsprocessen, så som verktyg för projektering och konstruktion.</Description>
+		<Owner>Stadsbyggnadsförvaltningen</Owner>
+		<Responsible/>
+		<Platform/>
+		<Comment/>
+		<DeployDate>1991-01-01</DeployDate>
+		<LastUpdateDate>2014-03-14</LastUpdateDate>
+	</record>
+	<record>
+		<Name>AXSOR, säker nyckelhantering</Name>
+		<Description/>
+		<Owner>Vård- och omsorgsförvaltningen</Owner>
+		<Responsible>Anders Persson Jan</Responsible>
+		<Platform>Administration: Windows 2000 Server, SQL 7.0, Citrix /Skåp: Linux</Platform>
+		<Comment/>
+		<LastUpdateDate>2014-02-19</LastUpdateDate>
+	</record>
+	<record>
+		<Name>B4FIRE</Name>
+		<Description>B4FIRE nyttjas av Kärnfastigheter för att tillgodose verksamhetens myndighetskrav om tekniska brandskyddsritningar för sina lokaler. B4FIRE nyttjas av Kärnfastigheters hyresgäster för att tillgodose myndighetskrav om arbete med systematiskt brandskyddsarbete. </Description>
+		<Owner>Kärnfastigheter</Owner>
+		<Responsible>Croona Klas</Responsible>
+		<Platform/>
+		<Comment/>
+		<DeployDate>2011-09-28</DeployDate>
+		<LastUpdateDate>2012-05-08</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Barco CMS</Name>
+		<Description>Mjukvara som möjliggör delning av information mellan olika skärmar och projektorer. Delning innom staden sker i eget nätverk. Delning utanför staden sker via VGA-anslutning.  Används även för att delge larminformation på skärmar i vagnhallar.</Description>
+		<Owner>Brandförsvaret</Owner>
+		<Responsible>Johansson Mattias</Responsible>
+		<Platform/>
+		<Comment/>
+		<DeployDate>2012-04-30</DeployDate>
+		<LastUpdateDate>2012-09-24</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Bastec</Name>
+		<Description>System för optimering, larmhantering avsende värme, ventilation</Description>
+		<Owner>Kärnfastigheter</Owner>
+		<Responsible>Åkerblom Patrik</Responsible>
+		<Platform/>
+		<Comment/>
+		<LastUpdateDate>2012-05-07</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Bevakning</Name>
+		<Description>Stadens upphandlade vaktbolag redovisar utförda larmryck och dokumenterar orsaker till utlösta larm. Informationen uppdateras dagligen. </Description>
+		<Owner>Stadsledningsförvaltningen</Owner>
+		<Responsible>Sten Orre</Responsible>
+		<Platform>Lotus Notes</Platform>
+		<Comment>Delar av informationen faller under Sekretesslagen § 18:8 och kommer således inte att publiceras.</Comment>
+		<DeployDate>2008-08-15</DeployDate>
+		<LastUpdateDate>2014-02-17</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Bevakningssystem - Lotus</Name>
+		<Description>Databas för alla stadens säkerhetsanläggningar. Här dokumenteras all infrastruktur gällande inbrottslarm, passagekontrollsystem och kameraövervakning</Description>
+		<Owner>Stadsledningsförvaltningen</Owner>
+		<Responsible>Sten Orre</Responsible>
+		<Platform>Lotus Notes</Platform>
+		<Comment>Databasen skall inte läggas ut som öppen data enl, Sekretesslagen §18:8 1-7.</Comment>
+		<DeployDate>2008-08-15</DeployDate>
+		<LastUpdateDate>2014-02-17</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Bewator</Name>
+		<Description>Intergrerat passage- och inbrottslarmssystem.</Description>
+		<Owner>Kärnfastigheter</Owner>
+		<Responsible>Hiertemyr André</Responsible>
+		<Platform>Bewator Omnis</Platform>
+		<Comment/>
+		<DeployDate>2009-01-20</DeployDate>
+		<LastUpdateDate>2012-05-08</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Borgerliga vigslar</Name>
+		<Description>bokning av borgerliga vigslar</Description>
+		<Owner>Stadsledningsförvaltningen</Owner>
+		<Responsible>Annika Kullberg</Responsible>
+		<Platform/>
+		<Comment/>
+		<DeployDate>2010-03-01</DeployDate>
+		<LastUpdateDate>2012-12-19</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Bravida Integra</Name>
+		<Description/>
+		<Owner>Kärnfastigheter</Owner>
+		<Responsible>Henningsson Magnus</Responsible>
+		<Platform/>
+		<Comment/>
+		<LastUpdateDate>2012-05-08</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Bryggan</Name>
+		<Description>Hantering av avtal vid köp av extern vård och beräkning av upplupna kostnader.</Description>
+		<Owner>Socialförvaltningen</Owner>
+		<Responsible>Lindquist Katarina</Responsible>
+		<Platform/>
+		<Comment/>
+		<LastUpdateDate>2012-05-23</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Carlotta</Name>
+		<Description>System för Helsingborgs museers föremålssamling.</Description>
+		<Owner>Kulturförvaltningen</Owner>
+		<Responsible>Kruse Therese</Responsible>
+		<Platform>Oracle</Platform>
+		<Comment/>
+		<DeployDate>1999-01-01</DeployDate>
+		<LastUpdateDate>2012-05-09</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Citect</Name>
+		<Description>System för optimering, larmhantering avsende värme, ventilation</Description>
+		<Owner>Kärnfastigheter</Owner>
+		<Responsible>Åkerblom Patrik</Responsible>
+		<Platform/>
+		<Comment/>
+		<LastUpdateDate>2012-05-07</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Contal</Name>
+		<Description>Larmbehandlingsprogram Systemet omfattar utalarmering och personsökarsystem i Skåne Nordväst. Mottagning av alla kommunala IP baserade larm som vidarbefordras till SOS. Skickar även information till Fishbone för publicering på stadens hemsida. Styr gatubelysningen i Helsingborg. Stänger ventilationen till vissa fastigheter och vårdboende vid VMA. VMA till hörselskadade via personsökare. SMS inkallning av personal. Mottager tilläggsinformation vid vissa automatiska brandlarm. SMS till valda räddningsenheter vid larm. Övervakning av personsökarnätet i Skåne Nordväst.</Description>
+		<Owner>Brandförsvaret</Owner>
+		<Responsible>Krister Nilsson</Responsible>
+		<Platform>Windows</Platform>
+		<Comment/>
+		<DeployDate>1989-02-09</DeployDate>
+		<LastUpdateDate>2012-09-24</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Creditsafe</Name>
+		<Description>Kreditupplysningstjänst</Description>
+		<Owner>Stadsledningsförvaltningen / Ekonomi och Styrning</Owner>
+		<Responsible>Tancred Rikard</Responsible>
+		<Platform/>
+		<Comment/>
+		<DeployDate>2005-11-15</DeployDate>
+		<LastUpdateDate>2012-05-31</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Daedalos mobil</Name>
+		<Description>Mobilt larm och insatsstöd till utryckningsfordon.</Description>
+		<Owner>Brandförsvaret</Owner>
+		<Responsible>Nydahl Pär</Responsible>
+		<Platform>Windows</Platform>
+		<Comment/>
+		<DeployDate>2009-03-30</DeployDate>
+		<LastUpdateDate>2012-09-24</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Daedalos stationärt</Name>
+		<Description>Verksamhetssystem för brandförsvaret</Description>
+		<Owner>Brandförsvaret</Owner>
+		<Responsible>Nydahl Pär</Responsible>
+		<Platform/>
+		<Comment/>
+		<LastUpdateDate>2012-09-24</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Desigo Insight</Name>
+		<Description>System för optimering, larmhantering avsende värme, ventilation</Description>
+		<Owner>Kärnfastigheter</Owner>
+		<Responsible>Åkerblom Patrik</Responsible>
+		<Platform>Win Server 2007</Platform>
+		<Comment/>
+		<DeployDate>2000-04-03</DeployDate>
+		<LastUpdateDate>2012-05-07</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Diabas</Name>
+		<Description>Dokument- och ärendehanteringssystem för stadens nämnder och styrelser</Description>
+		<Owner>Stadsledningsförvaltningen</Owner>
+		<Responsible>Scholander Ann-Marie</Responsible>
+		<Platform/>
+		<Comment/>
+		<DeployDate>2003-01-01</DeployDate>
+		<LastUpdateDate>2012-12-18</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Diana</Name>
+		<Description>System för optimering, larmhantering avsende värme, ventilation</Description>
+		<Owner>Kärnfastigheter</Owner>
+		<Responsible>Åkerblom Patrik</Responsible>
+		<Platform/>
+		<Comment/>
+		<LastUpdateDate>2012-05-07</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Docs</Name>
+		<Description>Docs är Kärnfastigheters gemensamma dokumenthanteringssystem. </Description>
+		<Owner>Kärnfastigheter</Owner>
+		<Responsible>Croona Klas</Responsible>
+		<Platform/>
+		<Comment/>
+		<LastUpdateDate>2012-05-08</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Donna</Name>
+		<Description>Program för hantering av donationer och stiftelser</Description>
+		<Owner>Stadsledningsförvaltningen / Ekonomi och Styrning</Owner>
+		<Responsible>Tancred Rikard</Responsible>
+		<Platform>Access</Platform>
+		<Comment/>
+		<DeployDate>2001-01-01</DeployDate>
+		<LastUpdateDate>2012-06-08</LastUpdateDate>
+	</record>
+	<record>
+		<Name>e.Fact</Name>
+		<Description>Försystem för kontering och attest av leverantörsfakturor samt system för internfakturering.</Description>
+		<Owner>Stadsledningsförvaltningen / Ekonomi och Styrning</Owner>
+		<Responsible>Kjell Joelson</Responsible>
+		<Platform>SQL-server</Platform>
+		<Comment/>
+		<DeployDate>2000-01-01</DeployDate>
+		<LastUpdateDate>2012-06-04</LastUpdateDate>
+	</record>
+	<record>
+		<Name>E4</Name>
+		<Description>Program för energikontroll, optimerings resultat</Description>
+		<Owner>Kärnfastigheter</Owner>
+		<Responsible>Åkerblom Patrik</Responsible>
+		<Platform/>
+		<Comment/>
+		<LastUpdateDate>2012-05-07</LastUpdateDate>
+	</record>
+	<record>
+		<Name>ECOS ärendehantering</Name>
+		<Description>Miljöförvaltningens ärendehantering och diariesystem med dokumentlager. Innehåller registerföring av objekt inom miljöskydd, hälsoskydd, livmedel, avlopp, radon m fl. Iehåller även rapportverktyget ECOS-rapp. ECOS innehåller uppgifter som kan vara sekretessbelagda med anledning av pågående åtalsprövning, personuppgifter, företagshemligheter etc. </Description>
+		<Owner>Miljöförvaltningen</Owner>
+		<Responsible>Hili Kerstin</Responsible>
+		<Platform>Access 2002, oracle-databas</Platform>
+		<Comment>ECOS innehåller uppgifter som kan vara sekretessbelagda med anledning av pågående åtalsprövning, personuppgifter, företagshemligheter etc.</Comment>
+		<DeployDate>2001-11-01</DeployDate>
+		<LastUpdateDate>2014-03-05</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Elektronisk Nyckelhantering Skolstaden</Name>
+		<Description>System för hantering av elektroniska nycklar på Skolstaden</Description>
+		<Owner>Skol- och fritidsförvaltningen / Gymnasieverksamhet / Skolområde Skolstad130731</Owner>
+		<Responsible>Gert Nilsson</Responsible>
+		<Platform/>
+		<Comment/>
+		<LastUpdateDate>2013-09-10</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Entry Event</Name>
+		<Description>Kassa och bokningssystem för Entrébiljettförsäljning på Dunkers, Fredriksdal, Sofiero och Kärnan. Bokning av guidningar och grupper, samt bokning av lokaler.</Description>
+		<Owner>Kulturförvaltningen</Owner>
+		<Responsible>Götesson Malena</Responsible>
+		<Platform/>
+		<Comment/>
+		<DeployDate>2010-08-01</DeployDate>
+		<LastUpdateDate>2012-08-28</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Ethiris</Name>
+		<Description>Kameraövervaknings program.</Description>
+		<Owner>Kärnfastigheter</Owner>
+		<Responsible>Hiertemyr André</Responsible>
+		<Platform>Ethiris</Platform>
+		<Comment/>
+		<DeployDate>2005-11-01</DeployDate>
+		<LastUpdateDate>2012-05-08</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Extens</Name>
+		<Description>Extens är det system som vi använder som elevregister på Kulturskolan. Här inne görs alla antagningar och härifrån utgår även debitering.</Description>
+		<Owner>Kulturförvaltningen</Owner>
+		<Responsible>Hoflin Katti</Responsible>
+		<Platform>PC</Platform>
+		<Comment/>
+		<DeployDate>1995-01-01</DeployDate>
+		<LastUpdateDate>2012-08-28</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Fasit</Name>
+		<Description>Ärendehanterings- och kommunikationssystem för kommunikation mellan Kärnfastigheter, hyresgäst och entreprenör</Description>
+		<Owner>Kärnfastigheter</Owner>
+		<Responsible>Croona Klas</Responsible>
+		<Platform/>
+		<Comment/>
+		<DeployDate>1995-09-04</DeployDate>
+		<LastUpdateDate>2012-05-08</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Fasit link</Name>
+		<Description>Fasit link är en mdb databas som anänds för att ladda upp viss information till Fasit.</Description>
+		<Owner>Kärnfastigheter</Owner>
+		<Responsible>Croona Klas</Responsible>
+		<Platform/>
+		<Comment/>
+		<LastUpdateDate>2012-05-08</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Fax</Name>
+		<Description/>
+		<Owner>Vård- och omsorgsförvaltningen</Owner>
+		<Responsible>Anders Persson Jan</Responsible>
+		<Platform/>
+		<Comment/>
+	</record>
+	<record>
+		<Name>Freelib</Name>
+		<Description>Webbgränssnitt för skolorna att nå LIBRA.SE</Description>
+		<Owner>Kulturförvaltningen</Owner>
+		<Responsible>Haglund Tina</Responsible>
+		<Platform/>
+		<Comment/>
+		<DeployDate>2007-01-01</DeployDate>
+		<LastUpdateDate>2011-10-20</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Fronter</Name>
+		<Description>Fronter Sverige är en exklusiv partner för den nätbaserade Lärplattformen Fronter. Fronter är en norsk produkt och drivs av Fronter AS med säte i Oslo. Fronters målgrupp är utbildningssektorn. Med 9 år på nacken har Fronter utvecklats till att idag vara den marknadsledande lärplattformen såväl i Europa som i Sverige. I Europa har vi ca 2.000.000 användare + det senaste stora tillskottet London stad. I Sverige finns vi idag representerade i ca 100 kommuner, t.ex Stockholms stads alla gymnasie skolor, Linköpings kommun, Umeå kommun, Lunds kommun för att nämna några. Fronter Sverige ägs av företaget Doubleclick AB som finns i Gbg och har idag 11 anställda varav 10 i princip bara jobbar med Fronter. Dessutom har vi ett antal utbildare bland våra kunder som vi hyr in ibland för att hålla utbildningar åt oss.</Description>
+		<Owner>Utvecklingsnämnden</Owner>
+		<Responsible>Ström Johan</Responsible>
+		<Platform/>
+		<Comment/>
+		<LastUpdateDate>2011-11-17</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Google Apps for Education</Name>
+		<Description>Pedagogiska verktyg i Google Apps For Education</Description>
+		<Owner>Skol- och fritidsförvaltningen</Owner>
+		<Responsible>Edward Jensinger</Responsible>
+		<Platform>Google Apps</Platform>
+		<Comment/>
+		<DeployDate>2014-03-19</DeployDate>
+		<LastUpdateDate>2014-03-19</LastUpdateDate>
+	</record>
+	<record>
+		<Name>HLS</Name>
+		<Description>Dokument- och ärendehanteringssystem. Spegling av uppgifter i Diabas men med tillägg för modul Assistenten för papperslösa sammanträden och med arbetsyta för handläggare. De senare kan hantera arbetsmaterial i systemet.</Description>
+		<Owner>Stadsledningsförvaltningen</Owner>
+		<Responsible>Segersten Lindell Ingrid</Responsible>
+		<Platform/>
+		<Comment/>
+		<DeployDate>2009-01-01</DeployDate>
+		<LastUpdateDate>2012-12-18</LastUpdateDate>
+	</record>
+	<record>
+		<Name>hub</Name>
+		<Description>processkarta för att följa elevers skolgång</Description>
+		<Owner>Socialförvaltningen</Owner>
+		<Responsible>Axelsson Andreas</Responsible>
+		<Platform>access</Platform>
+		<Comment/>
+		<LastUpdateDate>2011-11-18</LastUpdateDate>
+	</record>
+	<record>
+		<Name>hub</Name>
+		<Description/>
+		<Owner>Socialförvaltningen</Owner>
+		<Responsible/>
+		<Platform/>
+		<Comment/>
+	</record>
+	<record>
+		<Name>InfoPush</Name>
+		<Description>Adressdatabas för utskick både digitalt och fysiska utskick. (pressutskick, musikutskick, vernissageinbjudningar)</Description>
+		<Owner>Kulturförvaltningen</Owner>
+		<Responsible>Åsa Bergström Bengtsson</Responsible>
+		<Platform>.net</Platform>
+		<Comment/>
+		<DeployDate>2004-01-01</DeployDate>
+		<LastUpdateDate>2012-08-28</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Invoices</Name>
+		<Description>Försystem till e.Fact för inscanning av leverantörsfakturor.</Description>
+		<Owner>Stadsledningsförvaltningen / Ekonomi och Styrning</Owner>
+		<Responsible>Kjell Joelson</Responsible>
+		<Platform/>
+		<Comment/>
+	</record>
+	<record>
+		<Name>Inyett</Name>
+		<Description>Kontroll och analys av betalfiler</Description>
+		<Owner>Stadsledningsförvaltningen / Ekonomi och Styrning</Owner>
+		<Responsible>Rosengren Jonas</Responsible>
+		<Platform>.</Platform>
+		<Comment/>
+		<LastUpdateDate>2012-08-28</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Journal digital</Name>
+		<Description>Journal Digital är ett journal/dokumentations- och behandlingsstöd för användarna.  Systemet används i två olika verksamheter, Villan, ett HVB-hem med dygnsvård och Porten, öppenvård med famljebehandling under kontorstid. Varje enhet har en egen enhet i systemet.   Säkerhetssystemet för Journal Digital innebär att alla användare måste godkännas för att få åtkoms till systemet. Detta sker först med hjälp av säkerhetsdosans ID och lösenord. Alla användare kommunicerar med systemet över Internet. All kommunikation är krypterad. När användaren fått sin åtkomstkontroll godkänd identifierar sig användaren med personligt ID och lösenord för att komma åt sin behandlingsenhet.</Description>
+		<Owner>Socialförvaltningen</Owner>
+		<Responsible>Gunnarsson Helena</Responsible>
+		<Platform/>
+		<Comment/>
+		<DeployDate>2006-10-01</DeployDate>
+		<LastUpdateDate>2012-05-09</LastUpdateDate>
+	</record>
+	<record>
+		<Name>KeySafe</Name>
+		<Description>Databas för nyckelskåp till objektsnycklar automatiska brandlarm</Description>
+		<Owner>Brandförsvaret</Owner>
+		<Responsible>Krister Nilsson</Responsible>
+		<Platform>Win Xp</Platform>
+		<Comment/>
+		<DeployDate>2002-01-01</DeployDate>
+		<LastUpdateDate>2012-09-24</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Krf Energi och Miljö</Name>
+		<Description>System för optimering, larmhantering avsende värme, ventilation</Description>
+		<Owner>Kärnfastigheter</Owner>
+		<Responsible>Åkerblom Patrik</Responsible>
+		<Platform/>
+		<Comment/>
+	</record>
+	<record>
+		<Name>Kärnfastigheter på A002144\Gemensam (G)</Name>
+		<Description>Ärendehanterings- och kommunikationssystem för kommunikation mellan Kärnfastigheter, hyresgäst och entreprenör</Description>
+		<Owner>Kärnfastigheter</Owner>
+		<Responsible>Croona Klas</Responsible>
+		<Platform/>
+		<Comment/>
+		<LastUpdateDate>2012-05-08</LastUpdateDate>
+	</record>
+	<record>
+		<Name>LIBRA.SE</Name>
+		<Description>Biblioteksdatabas som hanterar medier, låntagare och cirkulation.</Description>
+		<Owner>Kulturförvaltningen</Owner>
+		<Responsible>Haglund Tina</Responsible>
+		<Platform>SQL-databas</Platform>
+		<Comment/>
+		<DeployDate>2001-01-01</DeployDate>
+		<LastUpdateDate>2011-09-26</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Lisa</Name>
+		<Description>Lisa är ett systemstöd för systematiskt arbete med att minska arbetsskadorna. Med Lisa kan man fånga information om skador (även elevskador) och tillbud direkt när en händelse inträffar. Informationen skrivs enkelt in med stöd av en guide. Från en databas får de berörda automatiskt ett e-postmeddelande om det inträffade. För en olyckshändelse eller arbetssjukdom kan även anmälningsblankett till Försäkringskassan skrivas ut direkt från Lisa.</Description>
+		<Owner>Stadsledningsförvaltningen</Owner>
+		<Responsible>Börjesson Cecilia</Responsible>
+		<Platform/>
+		<Comment/>
+		<LastUpdateDate>2012-11-20</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Lotus Notes</Name>
+		<Description>Lotus Notes är en serverbaserad applikation som hanterar databaser i olika funktioner.</Description>
+		<Owner>Utvecklingsnämnden</Owner>
+		<Responsible>Sarenvik David</Responsible>
+		<Platform>Windows</Platform>
+		<Comment/>
+		<DeployDate>1998-01-01</DeployDate>
+		<LastUpdateDate>2011-03-28</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Mallpaddan</Name>
+		<Description>Bokningssystem - för bokning av resurser, lokaler mm på Dunkers kulturhus Oklart vem som äger systemet. Lämpliga kontaktpersoner: Annika Melkersson Christian Odeholm Åsa Bergström Bengtsson</Description>
+		<Owner>Kulturförvaltningen</Owner>
+		<Responsible>Åsa Bergström Bengtsson</Responsible>
+		<Platform>MS Access</Platform>
+		<Comment/>
+		<DeployDate>2004-08-31</DeployDate>
+		<LastUpdateDate>2012-08-28</LastUpdateDate>
+	</record>
+	<record>
+		<Name>ManageBac</Name>
+		<Description>Planering och bedömning för lärare och elever på  ISH</Description>
+		<Owner>Skol- och fritidsförvaltningen / Gymnasieverksamhet / International School of HBG</Owner>
+		<Responsible>Majken Johansson</Responsible>
+		<Platform/>
+		<Comment/>
+		<LastUpdateDate>2012-11-01</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Medvind</Name>
+		<Description>Information om anställdas befattning, sysselsättningsgrad och tjänstgörningstider.  Behörighet, kompetens och delegering.</Description>
+		<Owner>Stadsledningsförvaltningen</Owner>
+		<Responsible>Lindell-Jansson Yvonne</Responsible>
+		<Platform/>
+		<Comment/>
+		<LastUpdateDate>2012-11-20</LastUpdateDate>
+	</record>
+	<record>
+		<Name>MIA</Name>
+		<Description>Lönekartläggning</Description>
+		<Owner>Stadsledningsförvaltningen</Owner>
+		<Responsible>Olsson Ann</Responsible>
+		<Platform/>
+		<Comment/>
+	</record>
+	<record>
+		<Name>Miljöbarometern</Name>
+		<Description>Uppföljningssystem för energi och miljömål. Databas för antagna mål och miljöindikatorer. Webbpublikation till extern webb av data i form av diagram , tabeller och mätare. Indikatorer som uppdateras årligen inom avfall, återvinning, markanvändning, energi, kemikalier, kulturmiljö, luft, vatten, natur, trafik och interna miljöarbetet </Description>
+		<Owner>Miljöförvaltningen</Owner>
+		<Responsible>Pernilla Fahlstedt</Responsible>
+		<Platform>Sql server, Windows</Platform>
+		<Comment>Nylanseras våren 2014</Comment>
+		<DeployDate>2006-09-01</DeployDate>
+		<LastUpdateDate>2014-03-05</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Neptune</Name>
+		<Description>Administration av behörigheter till alla Personecsystem.</Description>
+		<Owner>Stadsledningsförvaltningen</Owner>
+		<Responsible>Keidser Chatarina</Responsible>
+		<Platform/>
+		<Comment/>
+		<LastUpdateDate>2013-02-11</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Netloan</Name>
+		<Description>Bokningssystem för folkbibliotekens publika datorer</Description>
+		<Owner>Kulturförvaltningen</Owner>
+		<Responsible>Haglund Tina</Responsible>
+		<Platform/>
+		<Comment/>
+		<DeployDate>2003-01-01</DeployDate>
+		<LastUpdateDate>2011-09-26</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Nilex SFF</Name>
+		<Description>Ärendehanteringssystem</Description>
+		<Owner>Skol- och fritidsförvaltningen</Owner>
+		<Responsible>Pär Kristoffersson</Responsible>
+		<Platform/>
+		<Comment/>
+		<DeployDate>2010-11-15</DeployDate>
+		<LastUpdateDate>2014-01-13</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Novaschem Filborna skolan</Name>
+		<Description>Schemaläggning</Description>
+		<Owner>Skol- och fritidsförvaltningen / Gymnasieverksamhet / Skolområde Filborna130731</Owner>
+		<Responsible>Pierre Broddesson</Responsible>
+		<Platform/>
+		<Comment/>
+		<LastUpdateDate>2012-10-24</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Novaschem Skolstaden</Name>
+		<Description>Schemaläggningsprogram</Description>
+		<Owner>Skol- och fritidsförvaltningen / Gymnasieverksamhet / Skolområde Skolstad130731</Owner>
+		<Responsible>Pierre Broddesson</Responsible>
+		<Platform/>
+		<Comment/>
+		<LastUpdateDate>2012-10-22</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Nyckelskåp.</Name>
+		<Description>Nyckelskåp som hämtar information från KeySafe.</Description>
+		<Owner>Brandförsvaret</Owner>
+		<Responsible>Thorstensson Thomas</Responsible>
+		<Platform/>
+		<Comment/>
+		<DeployDate>2002-01-01</DeployDate>
+		<LastUpdateDate>2012-09-24</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Offentliga jobb</Name>
+		<Description>Rekryteringssystem  för Helsingborgs stads lediga jobb. Annonseringsverktyg till jobbannonser  för publicering på webbplatser och i tidningar. Urvalsverktyg. CV databas på sökande som innehåller sökandes personuppgifter,utbildning och arbetslivserfarenheter samt personliga brev. Viss statistik.</Description>
+		<Owner>Stadsledningsförvaltningen</Owner>
+		<Responsible>Segerheden Annika</Responsible>
+		<Platform/>
+		<Comment/>
+		<LastUpdateDate>2013-02-13</LastUpdateDate>
+	</record>
+	<record>
+		<Name>OPAC</Name>
+		<Description/>
+		<Owner>Kulturförvaltningen</Owner>
+		<Responsible>Haglund Tina</Responsible>
+		<Platform/>
+		<Comment/>
+		<DeployDate>2001-01-01</DeployDate>
+		<LastUpdateDate>2011-09-27</LastUpdateDate>
+	</record>
+	<record>
+		<Name>PAC</Name>
+		<Description/>
+		<Owner>Kärnfastigheter</Owner>
+		<Responsible>Hiertemyr André</Responsible>
+		<Platform>Pac Securnet</Platform>
+		<Comment/>
+		<DeployDate>2007-03-22</DeployDate>
+		<LastUpdateDate>2012-05-08</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Personec</Name>
+		<Description>Information om anställdas befattning, sysselsättningsgrad och tjänstgörningstider.  Behörighet, kompetens och delegering.</Description>
+		<Owner>Vård- och omsorgsförvaltningen</Owner>
+		<Responsible>Anders Persson Jan</Responsible>
+		<Platform/>
+		<Comment/>
+		<LastUpdateDate>2013-12-18</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Personec Förhandling</Name>
+		<Description/>
+		<Owner>Stadsledningsförvaltningen</Owner>
+		<Responsible>Olsson Ann</Responsible>
+		<Platform/>
+		<Comment/>
+		<LastUpdateDate>2012-11-20</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Personec HR Kompetensmodulen</Name>
+		<Description/>
+		<Owner>Stadsledningsförvaltningen</Owner>
+		<Responsible>Olsson Ann</Responsible>
+		<Platform/>
+		<Comment/>
+		<LastUpdateDate>2012-11-20</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Personec P (inkl. Självservice P)</Name>
+		<Description>Personal och lönesystem, självservice chefer och medarbetare.</Description>
+		<Owner>Stadsledningsförvaltningen</Owner>
+		<Responsible>Keidser Chatarina</Responsible>
+		<Platform/>
+		<Comment/>
+		<DeployDate>2007-04-01</DeployDate>
+		<LastUpdateDate>2013-02-11</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Personlig kunskap</Name>
+		<Description/>
+		<Owner>Vård- och omsorgsförvaltningen</Owner>
+		<Responsible>Anders Persson Jan</Responsible>
+		<Platform/>
+		<Comment/>
+	</record>
+	<record>
+		<Name>Predator</Name>
+		<Description>Program för hantering av inkassoärenden</Description>
+		<Owner>Stadsledningsförvaltningen / Ekonomi och Styrning</Owner>
+		<Responsible>Tancred Rikard</Responsible>
+		<Platform>?</Platform>
+		<Comment/>
+		<DeployDate>2001-01-01</DeployDate>
+		<LastUpdateDate>2012-05-31</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Procapita barn- och elevadministration</Name>
+		<Description>Förskoleplaceringar med fakturering mm Grundskolelevplaceringar med betygshanterig mm Gymnasie elevplaceringar med betygshanterig mm Med tillhörande webb</Description>
+		<Owner>Skol- och fritidsförvaltningen</Owner>
+		<Responsible>Roger Adolvsson</Responsible>
+		<Platform>SQL</Platform>
+		<Comment/>
+		<DeployDate>1999-01-01</DeployDate>
+		<LastUpdateDate>2014-03-19</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Procapita IFO</Name>
+		<Description>Ärenderegister för socialförvaltning</Description>
+		<Owner>Socialförvaltningen</Owner>
+		<Responsible>Kristina Wendel</Responsible>
+		<Platform>Windows 2003 server</Platform>
+		<Comment/>
+		<DeployDate>2000-01-01</DeployDate>
+		<LastUpdateDate>2012-06-18</LastUpdateDate>
+	</record>
+	<record>
+		<Name>ProCapita Vård- &amp; omsorg</Name>
+		<Description/>
+		<Owner>Vård- och omsorgsförvaltningen</Owner>
+		<Responsible>Gudmundsson Eva</Responsible>
+		<Platform>Windows 2000 Server, Oracle, Citrix</Platform>
+		<Comment/>
+		<LastUpdateDate>2014-02-19</LastUpdateDate>
+	</record>
+	<record>
+		<Name>QlikView</Name>
+		<Description>Rapportverktyg</Description>
+		<Owner>Stadsledningsförvaltningen / Ekonomi och Styrning</Owner>
+		<Responsible>Kjell Joelson</Responsible>
+		<Platform/>
+		<Comment/>
+		<DeployDate>2005-06-01</DeployDate>
+		<LastUpdateDate>2012-08-28</LastUpdateDate>
+	</record>
+	<record>
+		<Name>RCO</Name>
+		<Description>Passersytem i Kulturmagasinet</Description>
+		<Owner>Kulturförvaltningen</Owner>
+		<Responsible>Friman Anders</Responsible>
+		<Platform/>
+		<Comment/>
+		<DeployDate>1996-05-02</DeployDate>
+		<LastUpdateDate>2013-09-26</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Redovisning o reskontra</Name>
+		<Description>Ekonomisystem framförallt använt för återkommande fakturering, t.ex. äldreomsorg och barnomsorg.</Description>
+		<Owner>Stadsledningsförvaltningen</Owner>
+		<Responsible>Tancred Rikard</Responsible>
+		<Platform/>
+		<Comment/>
+		<DeployDate>2000-01-01</DeployDate>
+		<LastUpdateDate>2012-06-08</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Skadeadministration</Name>
+		<Description>Databas för skadeanmälningar gällande stadens egendom och ansvar.</Description>
+		<Owner>Stadsledningsförvaltningen</Owner>
+		<Responsible>Monica Eriksson</Responsible>
+		<Platform>Access 2010</Platform>
+		<Comment/>
+		<DeployDate>2000-01-01</DeployDate>
+		<LastUpdateDate>2014-01-15</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Skola 24 </Name>
+		<Description>Frånvarohantering. En administratör för hela systemet. Webbaserat</Description>
+		<Owner>Skol- och fritidsförvaltningen / Gymnasieverksamhet / Skolområde Skolstad130731</Owner>
+		<Responsible/>
+		<Platform/>
+		<Comment/>
+		<LastUpdateDate>2014-02-25</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Stratsys</Name>
+		<Description>Stadens systemstöd för gemensam målstyrning.</Description>
+		<Owner>Stadsledningsförvaltningen / Ekonomi och Styrning</Owner>
+		<Responsible>Fredriksson Mikael</Responsible>
+		<Platform>X</Platform>
+		<Comment/>
+		<DeployDate>2009-12-01</DeployDate>
+		<LastUpdateDate>2012-10-18</LastUpdateDate>
+	</record>
+	<record>
+		<Name>SVPL</Name>
+		<Description/>
+		<Owner>Vård- och omsorgsförvaltningen</Owner>
+		<Responsible>Anders Persson Jan</Responsible>
+		<Platform/>
+		<Comment/>
+	</record>
+	<record>
+		<Name>Systematiskt informations-, kontinuitets- och säkerhetsarbete, SIKS</Name>
+		<Description>Lednings och informationssystemet,LIS, hanterar stadens materiella såväl som immateriella tillgångar. Databasen innehåller analysverktyg med aktuell lagstiftning och regelverk som stöd för analyser av stadens tillgångar. Modulen Informationsbärare hanterar information om stadens it-system och den information som behandlas i systemen. Modulen Händelser samlar icke önskade skadehändelser som sker i staden. Modulen Anläggning hanterar fastighets-, byggnads- och verksamhetsinformation.</Description>
+		<Owner>Stadsledningsförvaltningen</Owner>
+		<Responsible>Sten Orre</Responsible>
+		<Platform>SQL-server</Platform>
+		<Comment/>
+		<DeployDate>2011-05-02</DeployDate>
+		<LastUpdateDate>2014-02-18</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Systematiskt informations-, kontinuitets- och säkerhetsarbete, SIKS</Name>
+		<Description/>
+		<Owner>Skol- och fritidsförvaltningen</Owner>
+		<Responsible>O Mårtensson Sven</Responsible>
+		<Platform/>
+		<Comment/>
+		<LastUpdateDate>2013-11-28</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Targit</Name>
+		<Description>Applikation till stadens beslutsstöd.Ett beslutsstöd är en systemlösning som resulterar i att kvalitetssäkrad information från ekonomisystem, personalsystem, verksamhetssystem, enkäter, styrkort, statistik och kartor samlas i ett datalager. Från datalagret skapas standardrapporter i  applikationen Targit som anpassas efter verksamhetens behov och möjliggör olika analyser för målgruppepn chefer.   </Description>
+		<Owner>Stadsledningsförvaltningen / Ekonomi och Styrning</Owner>
+		<Responsible>Ståhlgren Ann-Marie</Responsible>
+		<Platform>SQL-server</Platform>
+		<Comment/>
+		<DeployDate>2009-01-01</DeployDate>
+		<LastUpdateDate>2012-10-18</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Tekis Webb</Name>
+		<Description/>
+		<Owner>Stadsbyggnadsförvaltningen / Geografisk information / IT o GIS</Owner>
+		<Responsible>Rannestig Ewa</Responsible>
+		<Platform/>
+		<Comment/>
+	</record>
+	<record>
+		<Name>Tekis-LTF</Name>
+		<Description>Ett system för hantering av  lokala trafikföreskrifter. I  Tekis-LTF hanteras registrering och handläggning,med direkt koppling till ett GIS fönster där alla föreskrifter visas som en korrekt linje eller yta i kartan.</Description>
+		<Owner>Stadsbyggnadsförvaltningen</Owner>
+		<Responsible/>
+		<Platform/>
+		<Comment/>
+		<DeployDate>1999-03-02</DeployDate>
+		<LastUpdateDate>2014-03-14</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Televäxel Bårslöv</Name>
+		<Description>Intern televäxel för stab och larmcentral.</Description>
+		<Owner>Brandförsvaret</Owner>
+		<Responsible>Krister Nilsson</Responsible>
+		<Platform/>
+		<Comment/>
+		<DeployDate>2002-02-04</DeployDate>
+		<LastUpdateDate>2012-09-24</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Tendsign</Name>
+		<Description>Upphandlingsstöd som används för att skapa och administrera upphandlingar. Systemet kan även ta emot elektroniska anbud samt skicka ut beslut och beslutsunderlag. Stadens avtalsdatabas är även kopplad till systemet och administreras genom Tendsign. </Description>
+		<Owner>Stadsledningsförvaltningen</Owner>
+		<Responsible>Karlsson Henrik</Responsible>
+		<Platform/>
+		<Comment/>
+		<DeployDate>2011-11-01</DeployDate>
+		<LastUpdateDate>2012-10-10</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Test</Name>
+		<Description/>
+		<Owner>Kulturförvaltningen</Owner>
+		<Responsible>Ulf Åkesson</Responsible>
+		<Platform/>
+		<Comment/>
+		<LastUpdateDate>2013-10-09</LastUpdateDate>
+	</record>
+	<record>
+		<Name>TimeEdit</Name>
+		<Description>schemaläggningsprogram</Description>
+		<Owner>Skol- och fritidsförvaltningen</Owner>
+		<Responsible>Komet Marita</Responsible>
+		<Platform/>
+		<Comment/>
+		<DeployDate>2009-01-01</DeployDate>
+		<LastUpdateDate>2012-09-20</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Travel</Name>
+		<Description>System för registrering av utlandsreseräkningar. Systemet används endast internt på HR-avdelningen.</Description>
+		<Owner>Stadsledningsförvaltningen</Owner>
+		<Responsible>Keidser Chatarina</Responsible>
+		<Platform/>
+		<Comment/>
+		<LastUpdateDate>2013-02-11</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Troman</Name>
+		<Description>Databas över förtroendevalda  och vilka uppdrag de har i Helsingborgs stad.</Description>
+		<Owner>Stadsledningsförvaltningen</Owner>
+		<Responsible>Nilsson Eva</Responsible>
+		<Platform/>
+		<Comment/>
+		<DeployDate>1990-01-01</DeployDate>
+		<LastUpdateDate>2012-12-18</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Urkund källkontroll Skolstaden</Name>
+		<Description>Urkundskontroll av dokument för Skolstadens lärare kopplat till Fronter. (eventuellt Fronters helintegrerade system)</Description>
+		<Owner>Skol- och fritidsförvaltningen / Gymnasieverksamhet / Skolområde Skolstad130731</Owner>
+		<Responsible>Pierre Broddesson</Responsible>
+		<Platform/>
+		<Comment/>
+		<LastUpdateDate>2012-10-29</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Vingcard Vision</Name>
+		<Description>Ett av två passersystem i Dunkers kulturhus. Systemet styr tillgång till kontor och vissa verksamhetslokaler. Leverantör:  ASSA ABLOY Hospitality AB, VingCard Elsafe Support &amp; Service 031-7044085</Description>
+		<Owner>Kulturförvaltningen</Owner>
+		<Responsible>Patrik Joelsson</Responsible>
+		<Platform>PC</Platform>
+		<Comment/>
+		<DeployDate>2002-03-01</DeployDate>
+		<LastUpdateDate>2012-08-28</LastUpdateDate>
+	</record>
+	<record>
+		<Name>WinLas</Name>
+		<Description>System för LAS-hantering(anställningstid). Innehåller Helsingborgs stads anställdas anställningstid och en del andra anställningsuppgifter.</Description>
+		<Owner>Stadsledningsförvaltningen</Owner>
+		<Responsible>Segerheden Annika</Responsible>
+		<Platform/>
+		<Comment/>
+		<LastUpdateDate>2013-02-13</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Virtuella biblioteket</Name>
+		<Description/>
+		<Owner>Kulturförvaltningen</Owner>
+		<Responsible>Catharina Isberg</Responsible>
+		<Platform/>
+		<Comment/>
+		<DeployDate>2006-01-02</DeployDate>
+		<LastUpdateDate>2013-09-26</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Vista</Name>
+		<Description>System för optimering, larmhantering avsende värme, ventilation</Description>
+		<Owner>Kärnfastigheter</Owner>
+		<Responsible>Åkerblom Patrik</Responsible>
+		<Platform/>
+		<Comment/>
+		<LastUpdateDate>2012-05-07</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Vitec Nova Bosoc</Name>
+		<Description>Fastighetsförvaltningssystem, uthyrning, avisering, underhåll, kundregistrering, felanmälan.</Description>
+		<Owner>Kärnfastigheter</Owner>
+		<Responsible>Andersson Kerstin</Responsible>
+		<Platform>SKL</Platform>
+		<Comment/>
+		<DeployDate>2005-11-01</DeployDate>
+		<LastUpdateDate>2012-05-08</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Viva IFO (Individ och familjeomsorg)</Name>
+		<Description>Applikationen används som datorstöd i myndighetsutövning av försörjningsstöd och förvaltning av klienters egna medel.</Description>
+		<Owner>Utvecklingsnämnden</Owner>
+		<Responsible>Ekberg Anna C</Responsible>
+		<Platform>Lotus Notes</Platform>
+		<Comment/>
+		<DeployDate>2004-06-14</DeployDate>
+		<LastUpdateDate>2012-04-26</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Viva UTF (Utförare)</Name>
+		<Description>Stöd för verkställighet inom sysselsättningsåtgärder och behandlingsinsatser.</Description>
+		<Owner>Utvecklingsnämnden</Owner>
+		<Responsible>Lulic Susanna</Responsible>
+		<Platform>Lotus Notes</Platform>
+		<Comment/>
+		<DeployDate>2005-11-01</DeployDate>
+		<LastUpdateDate>2012-05-10</LastUpdateDate>
+	</record>
+</data-set>
