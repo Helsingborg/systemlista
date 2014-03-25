@@ -1,7 +1,7 @@
 Systemlista
 ===========
 
-En lista på de datasystem Helsingborgs stad använder. Kan användas för att få en uppfattning om vilken typ av data Helsingborgs stad äger. 
+En lista på de datasystem Helsingborgs stad använder. Kan användas för att få en uppfattning om vilken typ av data Helsingborgs stad äger. En mer användarvänlig version av listan finns på [oppna.helsingborg.se/datakallor/systemlista](https://oppna.helsingborg.se/datakallor/systemlista/).
 
 Notera att listan ej är 100% komplett och att en del av informationen i listan kan vara inkorrekt. Hittar du några fel så [kontakta oss](https://oppna.helsingborg.se/kontakta/) så ska vi göra vårt bästa för att korrigera dem så fort som möjligt.
 
