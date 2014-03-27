@@ -4,11 +4,11 @@
 		<Name>3D-Win</Name>
 		<Description>Program för geodetiska beräkningar och konverteringar.</Description>
 		<Owner>Stadsbyggnadsförvaltningen</Owner>
-		<Responsible/>
+		<Responsible>Andreas Krohn</Responsible>
 		<Platform/>
 		<Comment/>
 		<DeployDate>1995-01-02</DeployDate>
-		<LastUpdateDate>2014-03-14</LastUpdateDate>
+		<LastUpdateDate>2014-03-22</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Adato</Name>
@@ -62,11 +62,11 @@
 		<Name>ARX</Name>
 		<Description>Passersystem för stadsbyggnadshuset</Description>
 		<Owner>Stadsbyggnadsförvaltningen</Owner>
-		<Responsible/>
+		<Responsible>Andreas Krohn</Responsible>
 		<Platform/>
 		<Comment/>
 		<DeployDate>2007-01-01</DeployDate>
-		<LastUpdateDate>2014-03-14</LastUpdateDate>
+		<LastUpdateDate>2014-03-24</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Asynja Elevhälsa</Name>
@@ -82,11 +82,31 @@
 		<Name>AutoCAD Civil 3D</Name>
 		<Description>Används inom samhällsbyggnadsprocessen, så som verktyg för projektering och konstruktion.</Description>
 		<Owner>Stadsbyggnadsförvaltningen</Owner>
-		<Responsible/>
-		<Platform/>
+		<Responsible>Andreas Krohn</Responsible>
+		<Platform>Microsoft Windows</Platform>
 		<Comment/>
 		<DeployDate>1991-01-01</DeployDate>
-		<LastUpdateDate>2014-03-14</LastUpdateDate>
+		<LastUpdateDate>2014-03-24</LastUpdateDate>
+	</record>
+	<record>
+		<Name>AutoCAD Map 3D</Name>
+		<Description>CAD- och GIS-verktyg för användning inom samhällsbyggnadsprocessen, så som verktyg för planering, projektering och karthantering.</Description>
+		<Owner>Stadsbyggnadsförvaltningen</Owner>
+		<Responsible>Andreas Krohn</Responsible>
+		<Platform>Microsoft Windows</Platform>
+		<Comment/>
+		<DeployDate>1991-01-01</DeployDate>
+		<LastUpdateDate>2014-03-24</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Autodesk Infrastructure Map Server</Name>
+		<Description>Autodesk Infrastructure Map Server är en webbaserad programlösning för karthantering.</Description>
+		<Owner>Stadsbyggnadsförvaltningen</Owner>
+		<Responsible>Andreas Krohn</Responsible>
+		<Platform>Microsoft Windows</Platform>
+		<Comment/>
+		<DeployDate>2007-11-01</DeployDate>
+		<LastUpdateDate>2014-03-24</LastUpdateDate>
 	</record>
 	<record>
 		<Name>AXSOR, säker nyckelhantering</Name>
@@ -858,11 +878,11 @@
 		<Name>Tekis-LTF</Name>
 		<Description>Ett system för hantering av  lokala trafikföreskrifter. I  Tekis-LTF hanteras registrering och handläggning,med direkt koppling till ett GIS fönster där alla föreskrifter visas som en korrekt linje eller yta i kartan.</Description>
 		<Owner>Stadsbyggnadsförvaltningen</Owner>
-		<Responsible/>
+		<Responsible>Andreas Krohn</Responsible>
 		<Platform/>
 		<Comment/>
 		<DeployDate>1999-03-02</DeployDate>
-		<LastUpdateDate>2014-03-14</LastUpdateDate>
+		<LastUpdateDate>2014-03-24</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Televäxel Bårslöv</Name>
