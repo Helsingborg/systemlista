@@ -8,8 +8,8 @@
 		<Systemmanager>Andreas Krohn</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>1995-01-02</DeployDate>
-		<LastUpdateDate>2014-03-22</LastUpdateDate>
+		<DeployDate>34701</DeployDate>
+		<LastUpdateDate>41720</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Adato</Name>
@@ -19,8 +19,8 @@
 		<Systemmanager>Cecilia Vikström</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2008-03-01</DeployDate>
-		<LastUpdateDate>2014-04-24</LastUpdateDate>
+		<DeployDate>39508</DeployDate>
+		<LastUpdateDate>41753</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Administrera anställning och Anställningswebben</Name>
@@ -30,7 +30,7 @@
 		<Systemmanager>Cecilia Vikström</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<LastUpdateDate>2014-04-24</LastUpdateDate>
+		<LastUpdateDate>41753</LastUpdateDate>
 	</record>
 	<record>
 		<Name>AlkT</Name>
@@ -40,7 +40,7 @@
 		<Systemmanager>Hylén Åsa</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<LastUpdateDate>2012-06-25</LastUpdateDate>
+		<LastUpdateDate>41085</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Aplus</Name>
@@ -50,8 +50,8 @@
 		<Systemmanager>Karlsson Henrik</Systemmanager>
 		<Platform>SQL-server</Platform>
 		<Comment/>
-		<DeployDate>2009-10-01</DeployDate>
-		<LastUpdateDate>2014-04-14</LastUpdateDate>
+		<DeployDate>40087</DeployDate>
+		<LastUpdateDate>41743</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Aplus</Name>
@@ -61,8 +61,8 @@
 		<Systemmanager>Karlsson Henrik</Systemmanager>
 		<Platform>SQL-server</Platform>
 		<Comment/>
-		<DeployDate>2009-10-01</DeployDate>
-		<LastUpdateDate>2014-04-14</LastUpdateDate>
+		<DeployDate>40087</DeployDate>
+		<LastUpdateDate>41743</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Artologik HelpDesk</Name>
@@ -72,8 +72,8 @@
 		<Systemmanager>Cecilia Vikström</Systemmanager>
 		<Platform/>
 		<Comment>From 2014-03-01 HR servicecenter och from 2014-04-22 Vård och omsorgsförvaltningen kopplades på den centrala HR-avdelningens HelpDesk.</Comment>
-		<DeployDate>2010-04-01</DeployDate>
-		<LastUpdateDate>2014-04-24</LastUpdateDate>
+		<DeployDate>40269</DeployDate>
+		<LastUpdateDate>41753</LastUpdateDate>
 	</record>
 	<record>
 		<Name>ARX</Name>
@@ -83,8 +83,8 @@
 		<Systemmanager>Andreas Krohn</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2007-01-01</DeployDate>
-		<LastUpdateDate>2014-03-24</LastUpdateDate>
+		<DeployDate>39083</DeployDate>
+		<LastUpdateDate>41722</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Asynja Elevhälsa</Name>
@@ -94,8 +94,8 @@
 		<Systemmanager>Gadd Gunilla</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2005-04-01</DeployDate>
-		<LastUpdateDate>2012-08-30</LastUpdateDate>
+		<DeployDate>38443</DeployDate>
+		<LastUpdateDate>41151</LastUpdateDate>
 	</record>
 	<record>
 		<Name>AutoCAD Civil 3D</Name>
@@ -105,8 +105,8 @@
 		<Systemmanager>Andreas Krohn</Systemmanager>
 		<Platform>Microsoft Windows</Platform>
 		<Comment/>
-		<DeployDate>1991-01-01</DeployDate>
-		<LastUpdateDate>2014-03-24</LastUpdateDate>
+		<DeployDate>33239</DeployDate>
+		<LastUpdateDate>41722</LastUpdateDate>
 	</record>
 	<record>
 		<Name>AutoCAD Map 3D</Name>
@@ -116,8 +116,8 @@
 		<Systemmanager>Andreas Krohn</Systemmanager>
 		<Platform>Microsoft Windows</Platform>
 		<Comment/>
-		<DeployDate>1991-01-01</DeployDate>
-		<LastUpdateDate>2014-03-24</LastUpdateDate>
+		<DeployDate>33239</DeployDate>
+		<LastUpdateDate>41722</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Autodesk Infrastructure Map Server</Name>
@@ -127,8 +127,8 @@
 		<Systemmanager>Andreas Krohn</Systemmanager>
 		<Platform>Microsoft Windows</Platform>
 		<Comment/>
-		<DeployDate>2007-11-01</DeployDate>
-		<LastUpdateDate>2014-03-24</LastUpdateDate>
+		<DeployDate>39387</DeployDate>
+		<LastUpdateDate>41722</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Barco CMS</Name>
@@ -138,8 +138,8 @@
 		<Systemmanager>Johansson Mattias</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2012-04-30</DeployDate>
-		<LastUpdateDate>2012-09-24</LastUpdateDate>
+		<DeployDate>41029</DeployDate>
+		<LastUpdateDate>41176</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Bevakning</Name>
@@ -149,8 +149,8 @@
 		<Systemmanager>Sten Orre</Systemmanager>
 		<Platform>Lotus Notes</Platform>
 		<Comment>Delar av informationen faller under Sekretesslagen § 18:8 och kommer således inte att publiceras.</Comment>
-		<DeployDate>2008-08-15</DeployDate>
-		<LastUpdateDate>2014-02-17</LastUpdateDate>
+		<DeployDate>39675</DeployDate>
+		<LastUpdateDate>41687</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Borgerliga vigslar</Name>
@@ -160,8 +160,8 @@
 		<Systemmanager>Ingrid Segersten Lindell</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2010-03-01</DeployDate>
-		<LastUpdateDate>2014-04-22</LastUpdateDate>
+		<DeployDate>40238</DeployDate>
+		<LastUpdateDate>41751</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Bryggan</Name>
@@ -171,7 +171,7 @@
 		<Systemmanager>Lindquist Katarina</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<LastUpdateDate>2012-05-23</LastUpdateDate>
+		<LastUpdateDate>41052</LastUpdateDate>
 	</record>
 	<record>
 		<Name>ByggR</Name>
@@ -181,8 +181,8 @@
 		<Systemmanager>Andreas Krohn</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2011-12-08</DeployDate>
-		<LastUpdateDate>2014-04-03</LastUpdateDate>
+		<DeployDate>40885</DeployDate>
+		<LastUpdateDate>41732</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Carlotta</Name>
@@ -192,8 +192,8 @@
 		<Systemmanager>Kruse Therese</Systemmanager>
 		<Platform>Oracle</Platform>
 		<Comment/>
-		<DeployDate>1999-01-01</DeployDate>
-		<LastUpdateDate>2012-05-09</LastUpdateDate>
+		<DeployDate>36161</DeployDate>
+		<LastUpdateDate>41038</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Cartesia Skolskjuts</Name>
@@ -203,8 +203,8 @@
 		<Systemmanager>Andreas Krohn</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2008-01-01</DeployDate>
-		<LastUpdateDate>2014-04-03</LastUpdateDate>
+		<DeployDate>39448</DeployDate>
+		<LastUpdateDate>41732</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Contal</Name>
@@ -214,8 +214,8 @@
 		<Systemmanager>Krister Nilsson</Systemmanager>
 		<Platform>Windows</Platform>
 		<Comment/>
-		<DeployDate>1989-02-09</DeployDate>
-		<LastUpdateDate>2012-09-24</LastUpdateDate>
+		<DeployDate>32548</DeployDate>
+		<LastUpdateDate>41176</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Daedalos mobil</Name>
@@ -225,8 +225,8 @@
 		<Systemmanager>Nydahl Pär</Systemmanager>
 		<Platform>Windows</Platform>
 		<Comment/>
-		<DeployDate>2009-03-30</DeployDate>
-		<LastUpdateDate>2012-09-24</LastUpdateDate>
+		<DeployDate>39902</DeployDate>
+		<LastUpdateDate>41176</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Daedalos stationärt</Name>
@@ -236,7 +236,7 @@
 		<Systemmanager>Nydahl Pär</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<LastUpdateDate>2012-09-24</LastUpdateDate>
+		<LastUpdateDate>41176</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Diabas</Name>
@@ -246,8 +246,8 @@
 		<Systemmanager>Ingrid Segersten Lindell</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2003-01-01</DeployDate>
-		<LastUpdateDate>2014-04-22</LastUpdateDate>
+		<DeployDate>37622</DeployDate>
+		<LastUpdateDate>41751</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Docs</Name>
@@ -257,7 +257,7 @@
 		<Systemmanager>Croona Klas</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<LastUpdateDate>2012-05-08</LastUpdateDate>
+		<LastUpdateDate>41037</LastUpdateDate>
 	</record>
 	<record>
 		<Name>e.Fact</Name>
@@ -267,8 +267,8 @@
 		<Systemmanager>Karlsson Henrik</Systemmanager>
 		<Platform>SQL-server</Platform>
 		<Comment/>
-		<DeployDate>2000-01-01</DeployDate>
-		<LastUpdateDate>2014-04-14</LastUpdateDate>
+		<DeployDate>36526</DeployDate>
+		<LastUpdateDate>41743</LastUpdateDate>
 	</record>
 	<record>
 		<Name>e.Fact</Name>
@@ -278,8 +278,8 @@
 		<Systemmanager>Karlsson Henrik</Systemmanager>
 		<Platform>SQL-server</Platform>
 		<Comment/>
-		<DeployDate>2000-01-01</DeployDate>
-		<LastUpdateDate>2014-04-14</LastUpdateDate>
+		<DeployDate>36526</DeployDate>
+		<LastUpdateDate>41743</LastUpdateDate>
 	</record>
 	<record>
 		<Name>ECOS ärendehantering</Name>
@@ -289,8 +289,8 @@
 		<Systemmanager>Hili Kerstin</Systemmanager>
 		<Platform>Access 2002, oracle-databas</Platform>
 		<Comment>ECOS innehåller uppgifter som kan vara sekretessbelagda med anledning av pågående åtalsprövning, personuppgifter, företagshemligheter etc.</Comment>
-		<DeployDate>2001-11-01</DeployDate>
-		<LastUpdateDate>2014-03-05</LastUpdateDate>
+		<DeployDate>37196</DeployDate>
+		<LastUpdateDate>41703</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Entry Event</Name>
@@ -300,8 +300,8 @@
 		<Systemmanager>Götesson Malena</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2010-08-01</DeployDate>
-		<LastUpdateDate>2012-08-28</LastUpdateDate>
+		<DeployDate>40391</DeployDate>
+		<LastUpdateDate>41149</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Extens</Name>
@@ -311,8 +311,8 @@
 		<Systemmanager>Hoflin Katti</Systemmanager>
 		<Platform>PC</Platform>
 		<Comment/>
-		<DeployDate>1995-01-01</DeployDate>
-		<LastUpdateDate>2012-08-28</LastUpdateDate>
+		<DeployDate>34700</DeployDate>
+		<LastUpdateDate>41149</LastUpdateDate>
 	</record>
 	<record>
 		<Name>FME Desktop</Name>
@@ -322,8 +322,8 @@
 		<Systemmanager>Andreas Krohn</Systemmanager>
 		<Platform>Windows</Platform>
 		<Comment/>
-		<DeployDate>2002-01-01</DeployDate>
-		<LastUpdateDate>2014-04-03</LastUpdateDate>
+		<DeployDate>37257</DeployDate>
+		<LastUpdateDate>41732</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Freelib</Name>
@@ -333,8 +333,8 @@
 		<Systemmanager>Haglund Tina</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2007-01-01</DeployDate>
-		<LastUpdateDate>2011-10-20</LastUpdateDate>
+		<DeployDate>39083</DeployDate>
+		<LastUpdateDate>40836</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Fronter</Name>
@@ -344,7 +344,7 @@
 		<Systemmanager>Ström Johan</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<LastUpdateDate>2011-11-17</LastUpdateDate>
+		<LastUpdateDate>40864</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Google Apps for Education</Name>
@@ -354,8 +354,8 @@
 		<Systemmanager>Edward Jensinger</Systemmanager>
 		<Platform>Google Apps</Platform>
 		<Comment/>
-		<DeployDate>2014-03-19</DeployDate>
-		<LastUpdateDate>2014-04-11</LastUpdateDate>
+		<DeployDate>41717</DeployDate>
+		<LastUpdateDate>41740</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Gtrans</Name>
@@ -365,8 +365,19 @@
 		<Systemmanager>Andreas Krohn</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>1995-01-02</DeployDate>
-		<LastUpdateDate>2014-04-03</LastUpdateDate>
+		<DeployDate>34701</DeployDate>
+		<LastUpdateDate>41732</LastUpdateDate>
+	</record>
+	<record>
+		<Name>Helsingborg.se</Name>
+		<Description>Stadens webbsida för nyttoinformation till invånare, företagare och besökare.</Description>
+		<OrganisationalOwner>Stadsledningsförvaltningen</OrganisationalOwner>
+		<SystemOwner>Birgitta Darrell</SystemOwner>
+		<Systemmanager>Björn Westerlund</Systemmanager>
+		<Platform>Windows / MS SQL/ IIS/ EPi6R2</Platform>
+		<Comment/>
+		<DeployDate>40513</DeployDate>
+		<LastUpdateDate>41778</LastUpdateDate>
 	</record>
 	<record>
 		<Name>HLS</Name>
@@ -376,8 +387,8 @@
 		<Systemmanager>Ingrid Segersten Lindell</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2009-01-01</DeployDate>
-		<LastUpdateDate>2014-04-22</LastUpdateDate>
+		<DeployDate>39814</DeployDate>
+		<LastUpdateDate>41751</LastUpdateDate>
 	</record>
 	<record>
 		<Name>hub</Name>
@@ -387,7 +398,7 @@
 		<Systemmanager>Axelsson Andreas</Systemmanager>
 		<Platform>access</Platform>
 		<Comment/>
-		<LastUpdateDate>2011-11-18</LastUpdateDate>
+		<LastUpdateDate>40865</LastUpdateDate>
 	</record>
 	<record>
 		<Name>hub</Name>
@@ -406,8 +417,8 @@
 		<Systemmanager>Åsa Bergström Bengtsson</Systemmanager>
 		<Platform>.net</Platform>
 		<Comment/>
-		<DeployDate>2004-01-01</DeployDate>
-		<LastUpdateDate>2012-08-28</LastUpdateDate>
+		<DeployDate>37987</DeployDate>
+		<LastUpdateDate>41149</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Journal digital</Name>
@@ -417,8 +428,8 @@
 		<Systemmanager>Helena Gunnarsson</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2006-10-01</DeployDate>
-		<LastUpdateDate>2012-05-09</LastUpdateDate>
+		<DeployDate>38991</DeployDate>
+		<LastUpdateDate>41038</LastUpdateDate>
 	</record>
 	<record>
 		<Name>KeySafe</Name>
@@ -428,8 +439,8 @@
 		<Systemmanager>Krister Nilsson</Systemmanager>
 		<Platform>Win Xp</Platform>
 		<Comment/>
-		<DeployDate>2002-01-01</DeployDate>
-		<LastUpdateDate>2012-09-24</LastUpdateDate>
+		<DeployDate>37257</DeployDate>
+		<LastUpdateDate>41176</LastUpdateDate>
 	</record>
 	<record>
 		<Name>LIBRA.SE</Name>
@@ -439,8 +450,8 @@
 		<Systemmanager>Haglund Tina</Systemmanager>
 		<Platform>SQL-databas</Platform>
 		<Comment/>
-		<DeployDate>2001-01-01</DeployDate>
-		<LastUpdateDate>2011-09-26</LastUpdateDate>
+		<DeployDate>36892</DeployDate>
+		<LastUpdateDate>40812</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Lisa</Name>
@@ -450,7 +461,7 @@
 		<Systemmanager>Cecilia Vikström</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<LastUpdateDate>2014-04-10</LastUpdateDate>
+		<LastUpdateDate>41739</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Lotus Notes</Name>
@@ -460,8 +471,8 @@
 		<Systemmanager>Sarenvik David</Systemmanager>
 		<Platform>Windows</Platform>
 		<Comment/>
-		<DeployDate>1998-01-01</DeployDate>
-		<LastUpdateDate>2011-03-28</LastUpdateDate>
+		<DeployDate>35796</DeployDate>
+		<LastUpdateDate>40630</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Mallpaddan</Name>
@@ -471,8 +482,8 @@
 		<Systemmanager>Åsa Bergström Bengtsson</Systemmanager>
 		<Platform>MS Access</Platform>
 		<Comment/>
-		<DeployDate>2004-08-31</DeployDate>
-		<LastUpdateDate>2012-08-28</LastUpdateDate>
+		<DeployDate>38230</DeployDate>
+		<LastUpdateDate>41149</LastUpdateDate>
 	</record>
 	<record>
 		<Name>MapInfo Professional</Name>
@@ -482,8 +493,8 @@
 		<Systemmanager>Andreas Krohn</Systemmanager>
 		<Platform>Windows</Platform>
 		<Comment/>
-		<DeployDate>1990-06-01</DeployDate>
-		<LastUpdateDate>2014-04-03</LastUpdateDate>
+		<DeployDate>33025</DeployDate>
+		<LastUpdateDate>41732</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Medvind</Name>
@@ -493,8 +504,8 @@
 		<Systemmanager>Cecilia Vikström</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2005-01-01</DeployDate>
-		<LastUpdateDate>2014-04-24</LastUpdateDate>
+		<DeployDate>38353</DeployDate>
+		<LastUpdateDate>41753</LastUpdateDate>
 	</record>
 	<record>
 		<Name>MIA</Name>
@@ -504,7 +515,7 @@
 		<Systemmanager>Cecilia Vikström</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<LastUpdateDate>2014-04-24</LastUpdateDate>
+		<LastUpdateDate>41753</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Miljöbarometern</Name>
@@ -514,8 +525,8 @@
 		<Systemmanager>Pernilla Fahlstedt</Systemmanager>
 		<Platform>Sql server, Windows</Platform>
 		<Comment>Nylanseras våren 2014</Comment>
-		<DeployDate>2006-09-01</DeployDate>
-		<LastUpdateDate>2014-03-05</LastUpdateDate>
+		<DeployDate>38961</DeployDate>
+		<LastUpdateDate>41703</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Neptune</Name>
@@ -525,8 +536,8 @@
 		<Systemmanager>Cecilia Vikström</Systemmanager>
 		<Platform/>
 		<Comment>Nytt behörighetsadministrationssytem för personec sviten.</Comment>
-		<DeployDate>2012-01-01</DeployDate>
-		<LastUpdateDate>2014-04-24</LastUpdateDate>
+		<DeployDate>40909</DeployDate>
+		<LastUpdateDate>41753</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Netloan</Name>
@@ -536,8 +547,8 @@
 		<Systemmanager>Haglund Tina</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2003-01-01</DeployDate>
-		<LastUpdateDate>2011-09-26</LastUpdateDate>
+		<DeployDate>37622</DeployDate>
+		<LastUpdateDate>40812</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Nilex SFF</Name>
@@ -547,8 +558,8 @@
 		<Systemmanager>Pär Kristoffersson</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2010-11-15</DeployDate>
-		<LastUpdateDate>2014-01-13</LastUpdateDate>
+		<DeployDate>40497</DeployDate>
+		<LastUpdateDate>41652</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Novapoint</Name>
@@ -558,8 +569,8 @@
 		<Systemmanager>Andreas Krohn</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>1995-01-02</DeployDate>
-		<LastUpdateDate>2014-04-03</LastUpdateDate>
+		<DeployDate>34701</DeployDate>
+		<LastUpdateDate>41732</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Nyckelskåp.</Name>
@@ -569,8 +580,8 @@
 		<Systemmanager>Thorstensson Thomas</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2002-01-01</DeployDate>
-		<LastUpdateDate>2012-09-24</LastUpdateDate>
+		<DeployDate>37257</DeployDate>
+		<LastUpdateDate>41176</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Offentliga jobb</Name>
@@ -580,8 +591,8 @@
 		<Systemmanager>Cecilia Vikström</Systemmanager>
 		<Platform/>
 		<Comment>En e-tjänst som tillhandahålls av Aditro. Som arbetsgivare användningstid se ovan utifrån sökande är användartiden dygnet runt alla dagar och det är Aditro som ger support till de sökande.</Comment>
-		<DeployDate>2006-06-01</DeployDate>
-		<LastUpdateDate>2014-04-24</LastUpdateDate>
+		<DeployDate>38869</DeployDate>
+		<LastUpdateDate>41753</LastUpdateDate>
 	</record>
 	<record>
 		<Name>OPAC</Name>
@@ -591,8 +602,8 @@
 		<Systemmanager>Haglund Tina</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2001-01-01</DeployDate>
-		<LastUpdateDate>2011-09-27</LastUpdateDate>
+		<DeployDate>36892</DeployDate>
+		<LastUpdateDate>40813</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Personec Förhandling</Name>
@@ -602,8 +613,8 @@
 		<Systemmanager>Cecilia Vikström</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2006-06-01</DeployDate>
-		<LastUpdateDate>2014-04-24</LastUpdateDate>
+		<DeployDate>38869</DeployDate>
+		<LastUpdateDate>41753</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Personec HR Kompetensmodulen</Name>
@@ -613,7 +624,7 @@
 		<Systemmanager>Cecilia Vikström</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<LastUpdateDate>2014-04-24</LastUpdateDate>
+		<LastUpdateDate>41753</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Personec P (inkl. Självservice P)</Name>
@@ -623,8 +634,8 @@
 		<Systemmanager>Cecilia Vikström</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2007-04-01</DeployDate>
-		<LastUpdateDate>2014-04-24</LastUpdateDate>
+		<DeployDate>39173</DeployDate>
+		<LastUpdateDate>41753</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Predator</Name>
@@ -634,8 +645,8 @@
 		<Systemmanager>Josefin Blomqvist</Systemmanager>
 		<Platform>Windows</Platform>
 		<Comment/>
-		<DeployDate>2001-01-01</DeployDate>
-		<LastUpdateDate>2014-04-24</LastUpdateDate>
+		<DeployDate>36892</DeployDate>
+		<LastUpdateDate>41753</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Procapita barn- och elevadministration</Name>
@@ -645,8 +656,8 @@
 		<Systemmanager>Roger Adolvsson</Systemmanager>
 		<Platform>SQL</Platform>
 		<Comment/>
-		<DeployDate>1999-01-01</DeployDate>
-		<LastUpdateDate>2014-03-19</LastUpdateDate>
+		<DeployDate>36161</DeployDate>
+		<LastUpdateDate>41717</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Procapita IFO</Name>
@@ -656,8 +667,8 @@
 		<Systemmanager>Kristina Wendel</Systemmanager>
 		<Platform>Windows 2003 server</Platform>
 		<Comment/>
-		<DeployDate>2000-01-01</DeployDate>
-		<LastUpdateDate>2012-06-18</LastUpdateDate>
+		<DeployDate>36526</DeployDate>
+		<LastUpdateDate>41078</LastUpdateDate>
 	</record>
 	<record>
 		<Name>QlikView ekonomi</Name>
@@ -667,8 +678,8 @@
 		<Systemmanager>Karlsson Henrik</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2005-06-01</DeployDate>
-		<LastUpdateDate>2014-04-23</LastUpdateDate>
+		<DeployDate>38504</DeployDate>
+		<LastUpdateDate>41752</LastUpdateDate>
 	</record>
 	<record>
 		<Name>QlikView ekonomi</Name>
@@ -678,8 +689,8 @@
 		<Systemmanager>Karlsson Henrik</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2005-06-01</DeployDate>
-		<LastUpdateDate>2014-04-23</LastUpdateDate>
+		<DeployDate>38504</DeployDate>
+		<LastUpdateDate>41752</LastUpdateDate>
 	</record>
 	<record>
 		<Name>RCO</Name>
@@ -689,8 +700,8 @@
 		<Systemmanager>Friman Anders</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>1996-05-02</DeployDate>
-		<LastUpdateDate>2013-09-26</LastUpdateDate>
+		<DeployDate>35187</DeployDate>
+		<LastUpdateDate>41543</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Redovisning o reskontra</Name>
@@ -700,8 +711,8 @@
 		<Systemmanager>Tancred Rikard</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2000-01-01</DeployDate>
-		<LastUpdateDate>2012-06-08</LastUpdateDate>
+		<DeployDate>36526</DeployDate>
+		<LastUpdateDate>41068</LastUpdateDate>
 	</record>
 	<record>
 		<Name>SAS Inköpsanalys</Name>
@@ -711,7 +722,7 @@
 		<Systemmanager>Henrik Karlsson</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2013-08-01</DeployDate>
+		<DeployDate>41487</DeployDate>
 	</record>
 	<record>
 		<Name>Skadeadministration</Name>
@@ -721,8 +732,8 @@
 		<Systemmanager>Monica Eriksson</Systemmanager>
 		<Platform>Access 2010</Platform>
 		<Comment>Är under avveckling. Ersätts med Insman</Comment>
-		<DeployDate>2000-01-01</DeployDate>
-		<LastUpdateDate>2014-04-24</LastUpdateDate>
+		<DeployDate>36526</DeployDate>
+		<LastUpdateDate>41753</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Skola 24 </Name>
@@ -732,7 +743,7 @@
 		<Systemmanager>Spetz Marie</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<LastUpdateDate>2014-04-09</LastUpdateDate>
+		<LastUpdateDate>41738</LastUpdateDate>
 	</record>
 	<record>
 		<Name>sMap</Name>
@@ -742,7 +753,7 @@
 		<Systemmanager>Kristian Bergstrand</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<LastUpdateDate>2014-04-03</LastUpdateDate>
+		<LastUpdateDate>41732</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Solen Orbit</Name>
@@ -752,8 +763,8 @@
 		<Systemmanager>Andreas Krohn</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2003-01-01</DeployDate>
-		<LastUpdateDate>2014-04-03</LastUpdateDate>
+		<DeployDate>37622</DeployDate>
+		<LastUpdateDate>41732</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Solen Pro</Name>
@@ -763,8 +774,8 @@
 		<Systemmanager>Andreas Krohn</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>1997-06-01</DeployDate>
-		<LastUpdateDate>2014-04-03</LastUpdateDate>
+		<DeployDate>35582</DeployDate>
+		<LastUpdateDate>41732</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Stratsys</Name>
@@ -774,8 +785,8 @@
 		<Systemmanager>Ann-Marie Ståhlgren</Systemmanager>
 		<Platform>X</Platform>
 		<Comment/>
-		<DeployDate>2009-12-01</DeployDate>
-		<LastUpdateDate>2014-04-23</LastUpdateDate>
+		<DeployDate>40148</DeployDate>
+		<LastUpdateDate>41752</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Stratsys</Name>
@@ -785,8 +796,8 @@
 		<Systemmanager>Ann-Marie Ståhlgren</Systemmanager>
 		<Platform>X</Platform>
 		<Comment/>
-		<DeployDate>2009-12-01</DeployDate>
-		<LastUpdateDate>2014-04-23</LastUpdateDate>
+		<DeployDate>40148</DeployDate>
+		<LastUpdateDate>41752</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Systematiskt informations-, kontinuitets- och säkerhetsarbete, SIKS</Name>
@@ -796,8 +807,8 @@
 		<Systemmanager>Sten Orre</Systemmanager>
 		<Platform>SQL-server</Platform>
 		<Comment/>
-		<DeployDate>2011-05-02</DeployDate>
-		<LastUpdateDate>2014-05-12</LastUpdateDate>
+		<DeployDate>40665</DeployDate>
+		<LastUpdateDate>41771</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Systematiskt informations-, kontinuitets- och säkerhetsarbete, SIKS</Name>
@@ -807,7 +818,7 @@
 		<Systemmanager>O Mårtensson Sven</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<LastUpdateDate>2013-11-28</LastUpdateDate>
+		<LastUpdateDate>41606</LastUpdateDate>
 	</record>
 	<record>
 		<Name>TBC - Trimble Business Center</Name>
@@ -817,8 +828,8 @@
 		<Systemmanager>Andreas Krohn</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2012-01-02</DeployDate>
-		<LastUpdateDate>2014-04-03</LastUpdateDate>
+		<DeployDate>40910</DeployDate>
+		<LastUpdateDate>41732</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Tekis LV</Name>
@@ -828,8 +839,8 @@
 		<Systemmanager>Andreas Krohn</Systemmanager>
 		<Platform>Windows</Platform>
 		<Comment/>
-		<DeployDate>2011-10-01</DeployDate>
-		<LastUpdateDate>2014-04-03</LastUpdateDate>
+		<DeployDate>40817</DeployDate>
+		<LastUpdateDate>41732</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Tekis webb (tefat)</Name>
@@ -839,8 +850,8 @@
 		<Systemmanager>Andreas Krohn</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>1997-03-03</DeployDate>
-		<LastUpdateDate>2014-04-03</LastUpdateDate>
+		<DeployDate>35492</DeployDate>
+		<LastUpdateDate>41732</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Tekis-LTF</Name>
@@ -850,8 +861,8 @@
 		<Systemmanager>Andreas Krohn</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>1999-03-02</DeployDate>
-		<LastUpdateDate>2014-04-03</LastUpdateDate>
+		<DeployDate>36221</DeployDate>
+		<LastUpdateDate>41732</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Tekla GIS</Name>
@@ -861,8 +872,8 @@
 		<Systemmanager>Andreas Krohn</Systemmanager>
 		<Platform>Microsoft Windows oh Oracle Enterprise</Platform>
 		<Comment/>
-		<DeployDate>1999-12-01</DeployDate>
-		<LastUpdateDate>2014-04-03</LastUpdateDate>
+		<DeployDate>36495</DeployDate>
+		<LastUpdateDate>41732</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Televäxel Bårslöv</Name>
@@ -872,8 +883,8 @@
 		<Systemmanager>Krister Nilsson</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2002-02-04</DeployDate>
-		<LastUpdateDate>2012-09-24</LastUpdateDate>
+		<DeployDate>37291</DeployDate>
+		<LastUpdateDate>41176</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Tendsign</Name>
@@ -883,8 +894,8 @@
 		<Systemmanager>Henrik Karlsson</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2011-11-01</DeployDate>
-		<LastUpdateDate>2014-04-14</LastUpdateDate>
+		<DeployDate>40848</DeployDate>
+		<LastUpdateDate>41743</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Test</Name>
@@ -894,7 +905,7 @@
 		<Systemmanager>Ulf Åkesson</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<LastUpdateDate>2013-10-09</LastUpdateDate>
+		<LastUpdateDate>41556</LastUpdateDate>
 	</record>
 	<record>
 		<Name>TimeEdit</Name>
@@ -904,8 +915,8 @@
 		<Systemmanager>Komet Marita</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2009-01-01</DeployDate>
-		<LastUpdateDate>2012-09-20</LastUpdateDate>
+		<DeployDate>39814</DeployDate>
+		<LastUpdateDate>41172</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Travel</Name>
@@ -915,8 +926,8 @@
 		<Systemmanager>Cecilia Vikström</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2007-04-01</DeployDate>
-		<LastUpdateDate>2014-04-24</LastUpdateDate>
+		<DeployDate>39173</DeployDate>
+		<LastUpdateDate>41753</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Trix Organizer</Name>
@@ -926,8 +937,8 @@
 		<Systemmanager>Andreas Krohn</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2002-01-01</DeployDate>
-		<LastUpdateDate>2014-04-03</LastUpdateDate>
+		<DeployDate>37257</DeployDate>
+		<LastUpdateDate>41732</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Troman</Name>
@@ -937,8 +948,8 @@
 		<Systemmanager>Ingrid Segersten Lindell</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>1990-01-01</DeployDate>
-		<LastUpdateDate>2014-04-22</LastUpdateDate>
+		<DeployDate>32874</DeployDate>
+		<LastUpdateDate>41751</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Unikum </Name>
@@ -948,8 +959,8 @@
 		<Systemmanager>Mona Andersson</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2010-12-31</DeployDate>
-		<LastUpdateDate>2014-04-10</LastUpdateDate>
+		<DeployDate>40543</DeployDate>
+		<LastUpdateDate>41739</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Valman</Name>
@@ -959,8 +970,8 @@
 		<Systemmanager>Liedholm Anna</Systemmanager>
 		<Platform/>
 		<Comment>Är under avveckling. Ersatt av Vals men kommer att finnas som back up med historik.</Comment>
-		<DeployDate>1990-01-01</DeployDate>
-		<LastUpdateDate>2014-04-22</LastUpdateDate>
+		<DeployDate>32874</DeployDate>
+		<LastUpdateDate>41751</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Vals</Name>
@@ -970,7 +981,7 @@
 		<Systemmanager>Liedholm Anna</Systemmanager>
 		<Platform/>
 		<Comment>ERsätter Valman</Comment>
-		<DeployDate>2013-10-01</DeployDate>
+		<DeployDate>41548</DeployDate>
 	</record>
 	<record>
 		<Name>Vingcard Vision</Name>
@@ -980,8 +991,8 @@
 		<Systemmanager>Patrik Joelsson</Systemmanager>
 		<Platform>PC</Platform>
 		<Comment/>
-		<DeployDate>2002-03-01</DeployDate>
-		<LastUpdateDate>2012-08-28</LastUpdateDate>
+		<DeployDate>37316</DeployDate>
+		<LastUpdateDate>41149</LastUpdateDate>
 	</record>
 	<record>
 		<Name>WinLas</Name>
@@ -991,7 +1002,7 @@
 		<Systemmanager>Cecilia Vikström</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<LastUpdateDate>2014-04-10</LastUpdateDate>
+		<LastUpdateDate>41739</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Virtuella biblioteket</Name>
@@ -1001,8 +1012,8 @@
 		<Systemmanager>Catharina Isberg</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2006-01-02</DeployDate>
-		<LastUpdateDate>2013-09-26</LastUpdateDate>
+		<DeployDate>38719</DeployDate>
+		<LastUpdateDate>41543</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Vitec</Name>
@@ -1012,8 +1023,8 @@
 		<Systemmanager>Stefan Lovén</Systemmanager>
 		<Platform/>
 		<Comment/>
-		<DeployDate>2009-06-01</DeployDate>
-		<LastUpdateDate>2014-04-15</LastUpdateDate>
+		<DeployDate>39965</DeployDate>
+		<LastUpdateDate>41744</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Viva IFO (Individ och familjeomsorg)</Name>
@@ -1023,8 +1034,8 @@
 		<Systemmanager>Ekberg Anna C</Systemmanager>
 		<Platform>Lotus Notes</Platform>
 		<Comment/>
-		<DeployDate>2004-06-14</DeployDate>
-		<LastUpdateDate>2012-04-26</LastUpdateDate>
+		<DeployDate>38152</DeployDate>
+		<LastUpdateDate>41025</LastUpdateDate>
 	</record>
 	<record>
 		<Name>Viva UTF (Utförare)</Name>
@@ -1034,7 +1045,7 @@
 		<Systemmanager>Lulic Susanna</Systemmanager>
 		<Platform>Lotus Notes</Platform>
 		<Comment/>
-		<DeployDate>2005-11-01</DeployDate>
-		<LastUpdateDate>2012-05-10</LastUpdateDate>
+		<DeployDate>38657</DeployDate>
+		<LastUpdateDate>41039</LastUpdateDate>
 	</record>
 </data-set>
